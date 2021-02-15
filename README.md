@@ -1,6 +1,6 @@
 # **Digital Asset Holdings, LLC** 
 
-![](https://images.app.goo.gl/t3QfhmBiBrkd4iuw7) 
+![image](C:\Users\jakel_lv9e09w\OneDrive\Pictures\casestudy\logo.png) 
 
 Education material prepared by: John  A Kelly
 
@@ -129,5 +129,21 @@ Yuval Rooz
 
 #### Landscape
 
+Blockchain cannot be used to solve everything. 
+
 Key Competitors:
 R3  [EBSITE](https://www.r3.com/)
+
+
+A very useful application of blockchain has shifted 
+Participation in the stock market 
+
+##### References
+
+Bloomberg. “Digital Asset Holdings LLC - Company Profile.” Bloomberg, Bloomberg, 2014, (https://www.bloomberg.com/profile/company/1326074D:US).
+
+Jessel, Ben. “Digital Asset Steps Up A Gear In Enterprise Blockchain.” Https://Www.Forbes.Com/Sites/Benjessel/2020/02/19/Digital-Asset-Steps-up-a-Gear-in-Enterprise-Blockchain/?Sh=2b6b6f587f9a, Forbes, 19 Feb. 2020, (https://www.forbes.com/sites/benjessel/2020/02/19/digital-asset-steps-up-a-gear-in-enterprise-blockchain/?sh=2b6b6f587f9a).
+
+Shin, Laura. “Why Nasdaq Is Even More Optimistic About Blockchain Than It Was 3 Years Ago.” Apple Podcasts, Unchained, 21 Feb. 2017, (https://podcasts.apple.com/us/podcast/unchained/id1123922160?i=1000381489657).
+
+Tucker, Hank. “Digital Asset Integrates With Amazon, Hyperledger Fabric And R3 Corda.” Forbes, Forbes, 18 June 2019, https://www.forbes.com/sites/hanktucker/2019/06/18/digital-asset-integrates-with-amazon-hyperledger-fabric-and-r3-corda/?sh=514727325790.
