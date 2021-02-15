@@ -1,6 +1,6 @@
 # **Digital Asset Holdings, LLC** 
 
-![logo](https://images.app.goo.gl/wYvoYEACV29qyEZX8) 
+![logo](https://cdn.contactcenterworld.com/images/company/digital-asset-holdings-llc-600px-logo.png) 
 
 Education material prepared by: John  A Kelly
 
