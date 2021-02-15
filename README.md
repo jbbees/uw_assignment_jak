@@ -1,6 +1,6 @@
 # **Digital Asset Holdings, LLC** 
 
-![image](C:\Users\jakel_lv9e09w\OneDrive\Pictures\casestudy\logo.png) 
+![logo](https://images.app.goo.gl/wYvoYEACV29qyEZX8) 
 
 Education material prepared by: John  A Kelly
 
@@ -24,19 +24,19 @@ Website: [Digital Asset Holdings](www.digitalasset.com)
 
 **Founders:**
 
-![https://images.app.goo.gl/mSh4Wk6TNJBT4C2q9]
+![image](https://images.app.goo.gl/mSh4Wk6TNJBT4C2q9)
 Yuval Rooz - *Co-founder; current CEO* 
 
-![https://images.app.goo.gl/bVAuZe7WLpasrAFf6[] 
+![image](https://images.app.goo.gl/bVAuZe7WLpasrAFf6)
 Sunil Harani - *Co-founder; first company Managing Director*
 
-![https://images.app.goo.gl/9WuxfJHUMtMtxHSB6]
+![image](https://images.app.goo.gl/9WuxfJHUMtMtxHSB6)
 Don Wilson - *Co-founder*
 
-![https://images.app.goo.gl/qtpKiS4fuetvv7p37]
+![image](https://images.app.goo.gl/qtpKiS4fuetvv7p37)
 Shaul Kfir - *Co-founder*
 
-![https://images.app.goo.gl/Mm6jXTgXcVmjVuN77]
+![image](https://images.app.goo.gl/Mm6jXTgXcVmjVuN77)
 Eric Saraniecki - *Co-founder; Head of Product*
 
 **Key People:**
@@ -62,8 +62,6 @@ Broadridge
 Citigroup
 Deutsche-Boerse
 DTCC
-
-Pivit Gaming - 2015 $5mil
 Goldman Sachs
 IBM Ventures
 Jefferson River Capital 
@@ -118,18 +116,21 @@ They isolated the workables segment of their smart-contract language into a prod
 The company has not abandoned their intended use for DAML to be adopted in the financial sector. In fact, their main customer for DAML 
 
 
-
-
- 
-
-
-The original blockchain software they in
-
-Yuval Rooz 
-
 #### Landscape
 
-Blockchain cannot be used to solve everything. 
+The landscape of blockchain at the inception of Digital Asset was very broad, that blockchain could be used to solve any kind of problem applicable to finance and business in general. But through the years finace providers had very little rollover into blockchain as 
+
+Adoption is slow. Investment in blockchain by financial firms has lost its enthusiasm. But 
+
+Blockchain cannot be used to solve everything. Blockchain framework is useful for "future-proofing" allows the user 
+
+combine different kinds of different 
+
+Allows you to combine 
+
+
+Blockchain has proven to be very useful in terms of keeping track of company ownership. All 
+
 
 Key Competitors:
 R3  [EBSITE](https://www.r3.com/)
@@ -143,6 +144,8 @@ Participation in the stock market
 Bloomberg. “Digital Asset Holdings LLC - Company Profile.” Bloomberg, Bloomberg, 2014, (https://www.bloomberg.com/profile/company/1326074D:US).
 
 Jessel, Ben. “Digital Asset Steps Up A Gear In Enterprise Blockchain.” Https://Www.Forbes.Com/Sites/Benjessel/2020/02/19/Digital-Asset-Steps-up-a-Gear-in-Enterprise-Blockchain/?Sh=2b6b6f587f9a, Forbes, 19 Feb. 2020, (https://www.forbes.com/sites/benjessel/2020/02/19/digital-asset-steps-up-a-gear-in-enterprise-blockchain/?sh=2b6b6f587f9a).
+
+Digital Asset . The Digital Asset Platform, Non-Technical White Paper. Digital Asset Holdings, LLC, 15 Dec. 2016, https://hub.digitalasset.com/hubfs/Documents/Digital%20Asset%20Platform%20-%20Non-technical%20White%20Paper.pdf.
 
 Shin, Laura. “Why Nasdaq Is Even More Optimistic About Blockchain Than It Was 3 Years Ago.” Apple Podcasts, Unchained, 21 Feb. 2017, (https://podcasts.apple.com/us/podcast/unchained/id1123922160?i=1000381489657).
 
