@@ -24,22 +24,22 @@ Website: [Digital Asset Holdings](www.digitalasset.com)
 
 **Founders:**
 
-![image](https://www.sramanamitra.com/wp-content/uploads/2020/09/yuval.jpeg | width=100)
+![image](https://www.sramanamitra.com/wp-content/uploads/2020/09/yuval.jpeg | width="100")
 Yuval Rooz - *Co-founder; current CEO* 
 
-![image](https://res-4.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco/v1485227107/sgotoybudaymlouprf21.jpg | width=100)
+![image](https://res-4.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco/v1485227107/sgotoybudaymlouprf21.jpg | width="100")
 Sunil Harani - *Co-founder; first company Managing Director*
 
-![image](https://bfi.uchicago.edu/wp-content/uploads/2018/07/Photo-Wilson-Don-328x328.jpg | width =100) 
+![image](https://bfi.uchicago.edu/wp-content/uploads/2018/07/Photo-Wilson-Don-328x328.jpg | width ="100") 
 Don Wilson - *Co-founder*
 
-![image](https://worldtradesymposium.com/wp-content/uploads/2019/10/Shaul-Kfir-photo.jpg | width=100)
+![image](https://worldtradesymposium.com/wp-content/uploads/2019/10/Shaul-Kfir-photo.jpg | width="100")
 Shaul Kfir - *Co-founder*
 
-![image](https://101blockchains.com/wp-content/uploads/2020/07/eric.png | width=100)
+![image](https://101blockchains.com/wp-content/uploads/2020/07/eric.png | width="100")
 Eric Saraniecki - *Co-founder; Head of Product*
 
-![image](C:\Users\jakel_lv9e09w\Desktop\eric.png | width=100)
+![image](C:\Users\jakel_lv9e09w\Desktop\eric.png | width="100")
 
 **Key People:**
 
