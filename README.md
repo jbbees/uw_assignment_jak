@@ -56,26 +56,26 @@ Sallie L. Krawcheck
 
 ### Business Activities
 
-**Ivestors**
+**Key Investors**
 
-*Accenture
-*Austrailian Stock Exchange (ASX)
-*Broadridge
-*Citigroup
-*Deutsche-Boerse
-*DTCC
-*Goldman Sachs
-*IBM Ventures
-*Jefferson River Capital 
-*JP Morgan
-*NEX Group
-*Mouro Capital
-*PNC Bank
-*Salesforce
-*Samsung 
-*VMWare
+* Accenture
+* Austrailian Stock Exchange (ASX)
+* Broadridge
+* Citigroup
+* Deutsche-Boerse
+* DTCC
+* Goldman Sachs
+* IBM Ventures
+* Jefferson River Capital 
+* JP Morgan
+* NEX Group
+* Mouro Capital
+* PNC Bank
+* Salesforce
+* Samsung 
+* VMWare
 
-**Funding**
+**Funding Schedule**
 
 YEAR|FUNDING AMOUNT|FUNDING TYPE|
 ----|--------------|------------|
