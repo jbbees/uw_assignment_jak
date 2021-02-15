@@ -77,15 +77,15 @@ VMWare
 
 **Funding**
 
-|YEAR|FUNDING AMOUNT|FUNDING TYPE|BACKING INVESTORS|
-|----|--------------|------------|
-|2014|              |            |
-|2015|              |            |
-|2016|$ 67,200,000  |  Ventures  | Goldman Sachs, JP Morgan, IBM Ventures, Austrailian Stock Exchange 
-|2017|$ 40,000,000  |  Series-B  |
-|2018|$          0  |            |
-|2019|$ 35,000,000  |  Series-C  | 
-|2020|     Pending  |  Series-C  | VMWare, SalesForce, & Samsung
+YEAR|FUNDING AMOUNT|FUNDING TYPE|
+----|--------------|------------|
+2014|              |            |
+2015|              |            |
+2016|$ 67,200,000  |  Ventures  |  
+2017|$ 40,000,000  |  Series-B  |
+2018|$          0  |            |
+2019|$ 35,000,000  |  Series-C  | 
+2020|     Pending  |  Series-C  | 
 
 **Acquistions and Divisions:**
 Blockstack 
