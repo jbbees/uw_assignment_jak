@@ -1,6 +1,6 @@
 # **Digital Asset Holdings, LLC** 
 
-![https://images.app.goo.gl/t3QfhmBiBrkd4iuw7]
+![](https://images.app.goo.gl/t3QfhmBiBrkd4iuw7) 
 
 Education material prepared by: John  A Kelly
 
