@@ -58,22 +58,22 @@ Sallie L. Krawcheck
 
 **Ivestors**
 
-Accenture
-Austrailian Stock Exchange (ASX)
-Broadridge
-Citigroup
-Deutsche-Boerse
-DTCC
-Goldman Sachs
-IBM Ventures
-Jefferson River Capital 
-JP Morgan
-NEX Group
-Mouro Capital
-PNC Bank
-Salesforce
-Samsung 
-VMWare
+*Accenture
+*Austrailian Stock Exchange (ASX)
+*Broadridge
+*Citigroup
+*Deutsche-Boerse
+*DTCC
+*Goldman Sachs
+*IBM Ventures
+*Jefferson River Capital 
+*JP Morgan
+*NEX Group
+*Mouro Capital
+*PNC Bank
+*Salesforce
+*Samsung 
+*VMWare
 
 **Funding**
 
