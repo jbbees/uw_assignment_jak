@@ -14,11 +14,13 @@ Headquaters: 162 Fifth Avenue ATE. 902, New York, NY 10010
 
 Industry: Distributed Blockchain Ledger Software Developer for Financial Services (2014-Present) Healthcare, Retail, 
 
-Product: Digital Asset Modeling Language (DAML) - *open-source*
+Product: Digital Asset Modeling Language (DAML) - *open-source, free-ware*
 
 Product-Type: Distributed Ledger Technology (DLT)
 
 Total Funding-to-Date: $142.2 million USD - *as of Feb 4, 2020*
+
+Personnel Headcount: 175
 
 Website: [Digital Asset Holdings](www.digitalasset.com)
 
@@ -26,11 +28,11 @@ Website: [Digital Asset Holdings](www.digitalasset.com)
 
 <img src="https://www.sramanamitra.com/wp-content/uploads/2020/09/yuval.jpeg" width ="120" height="120">
 
-Yuval Rooz - *Co-founder; current CEO* 
+Yuval Rooz - *Co-founder, current CEO (2019-Present)* 
 
 <img src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco/v1485227107/sgotoybudaymlouprf21.jpg" width ="120" height="120">
 
-Sunil Harani - *Co-founder; first company Managing Director*
+Sunil Harani - *Co-founder, first company Managing Director*
 
 <img src="https://bfi.uchicago.edu/wp-content/uploads/2018/07/Photo-Wilson-Don-328x328.jpg" width ="120" height ="120">
 
@@ -38,18 +40,23 @@ Don Wilson - *Co-founder*
 
 <img src="https://worldtradesymposium.com/wp-content/uploads/2019/10/Shaul-Kfir-photo.jpg" width ="120" height ="120">
 
-Shaul Kfir - *Co-founder*
+Shaul Kfir - *Co-founder, CTO of Architecture*
 
 <img src="https://101blockchains.com/wp-content/uploads/2020/07/eric.png" width ="120" height ="120">
 
-Eric Saraniecki - *Co-founder; Head of Product*
+Eric Saraniecki - *Co-founder, Head of Product*
 
 **Key People:**
 
 * ~~Blythe Masters - *Former CEO & Boardmember*~~
-* Narayan Gangadhar - *Former interim-CEO* 
+* Narayan Gangadhar - *Former interim-CEO, Board Chairman* 
+* Zohar Hod - *Chief Strategy Officer* 
 * Chirs Church - *Chief Business Development Officer*
+* Oliver Hugh-Jones - *Head of European Business Development*
 * Dan O'Prey - *Chief Marketing Officer*
+* ~~Sofus Mortensen - *Former Product Manager for DAML*~~
+* ~~James Powell - *Former CIO & CTO of Engineering*~~
+* ~~Gavin Wells -  *Former Head of Europe Ops*~~
 
 **Board Members:**
 
@@ -57,6 +64,10 @@ Eric Saraniecki - *Co-founder; Head of Product*
 * Sallie L. Krawcheck
 
 **Company Thesis** 
+
+Digital Asset Holdings, LLC was originally formed 
+
+According to their offical published white-paper without needing a coin
 
 ### Business Activities
 
@@ -97,7 +108,9 @@ YEAR|FUNDING AMOUNT|FUNDING TYPE|
 * Hperledger 
 * Elevence *(acquired 2017)*
 
+**2014 
 
+At the beginning of the company was to try to figure out a way to reduce the need for ledger reconciliation between financial entities given the volume of daily transactions done between all of these 
 
 
 early blockchain technologies relied on a coin which limits 
@@ -105,9 +118,9 @@ early blockchain technologies relied on a coin which limits
 She was Wallstreet's go-to general to strategize, contain, and control blockchain without a core understanding of decentralization. Her idea was that you could buy-out blockchain compamies and then you'll have market control of it. This did not materialize  
 Development of their smart-contract programming language was halted. 
 
-But since she 
+**2015 
 
-Blythe Masters 
+Blythe Masters is brought on as the official CEO. Before hand all five original founders were sharing the key operating roles  
 
 Later in 2017 the key financial 
 
