@@ -37,6 +37,7 @@ Don Wilson - *Co-founder*
 Shaul Kfir - *Co-founder*
 
 ![image](https://101blockchains.com/wp-content/uploads/2020/07/eric.png)
+<img src="https://101blockchains.com/wp-content/uploads/2020/07/eric.png" width ="120" height = "120">
 Eric Saraniecki - *Co-founder; Head of Product*
 
 ![image](C:\Users\jakel_lv9e09w\Desktop\eric.png)
