@@ -14,17 +14,19 @@ Headquaters: 162 Fifth Avenue ATE. 902, New York, NY 10010
 
 Industry: Distributed Blockchain Ledger Software Developer for Financial Services (2014-Present) Healthcare, Retail, 
 
-Product: Digital Asset Modeling Language (DAML) - *open-source, free-ware*
+Flagship Product: Digital Asset Modeling Language (DAML) - *open-source, free-ware*
 
 Product-Type: Distributed Ledger Technology (DLT)
 
-Total Funding-to-Date: $142.2 million USD - *as of Feb 4, 2020*
+Total Funding-to-Date: $142.2 - $180 million USD - *as of Feb 4, 2020*
 
-Personnel Headcount: 175
+Annual Revenues: $10 million USD - *fees for technical support and other enterprise services* 
+
+Personnel Headcount: 147
 
 Website: [Digital Asset Holdings](www.digitalasset.com)
 
-**Founders:**
+**Founding Team:**
 
 <img src="https://www.sramanamitra.com/wp-content/uploads/2020/09/yuval.jpeg" width ="120" height="120">
 
@@ -63,11 +65,16 @@ Eric Saraniecki - *Co-founder, Head of Product*
 * Narayan Gangadhar "AG" - *Chairman* 
 * Sallie L. Krawcheck
 
-**Company Thesis** 
+**Company Thesis and Formation** 
 
-Digital Asset Holdings, LLC was originally formed 
+Digital Asset Holdings, LLC was originally formed in 2014. 
 
-According to their offical published white-paper without needing a coin
+According to a Forbes expose written in 2020:
+> The company, founded in 2014 by Sunil Hirani, Don Wilson, Yuval Rooz, Shaul Kfir and Eric Saraniecki out of a bitcoin trading operation created by the Chicago trading firm DRW, rose quickly to prominence through aggressive acquisitions in talent and technology. 
+
+Their offical technology white-paper was published 
+
+
 
 ### Business Activities
 
@@ -104,8 +111,8 @@ YEAR|FUNDING AMOUNT|FUNDING TYPE|
 
 **Acquistions and Divisions:**
 * Blockstack 
-* Bits of Proof
-* Hperledger 
+* Bits of Proof *(acquired 2015)*
+* Hperledger *(acquired 2015)*
 * Elevence *(acquired 2017)*
 
 **2014 
@@ -120,50 +127,74 @@ Development of their smart-contract programming language was halted.
 
 **2015 
 
-Blythe Masters is brought on as the official CEO. Before hand all five original founders were sharing the key operating roles  
+Blythe Masters is brought on as the official CEO. Before hand all five original founders were sharing the key operating roles. 
 
 Later in 2017 the key financial 
 
 **2019 - Present, Yuval Rooz CEO**
 
-After Blythe Master's departure in December 2018, which she took all
+After Blythe Master's departure in December 2018, which followed the core 
+
+
 They did an overall 
+
+Headcount was reduced from 175 to 147. 
+
 Since most of their funding and time has been spent making acquisitions of competing smart contract tech start-ups, there was barely any development of their own core smart-contract products, with no time-table to release to market. Early adopters of their product in the finace industry report it was too difficult to use 
 With slow adoption rate to convert to blockchain in their home industry, finance, 
 They isolated the workables segment of their smart-contract language into a product labeled Digitial  or DAML. It was released online as a free license. To make revenues the company will roll-out fees for customer services and support, and fees for enterprise support. But s
 The company has not abandoned their intended use for DAML to be adopted in the financial sector. In fact, their main customer for DAML 
 
 
+
+
 #### Landscape
 
-The landscape of blockchain at the inception of Digital Asset was very broad, that blockchain could be used to solve any kind of problem applicable to finance and business in general. But through the years finace providers had very little rollover into blockchain as 
+**What domain of the financial industry is the company in?**
 
-Adoption is slow. Investment in blockchain by financial firms has lost its enthusiasm. But 
+Digital Asset is in the **distributed ledger technology** or DLT, domain of blockchain. In particular distributed ledgers that does not need the backing of a token or coin, which was revolutionary at the time.  
 
-Blockchain cannot be used to solve everything. Blockchain framework is useful for "future-proofing" allows the user 
+**What have been the major trends and innovations of this domain over the last 5-10 years?**
+The landscape of blockchain at the inception of Digital Asset was very broad, that blockchain could be used to solve any kind of problem applicable to finance and business in general. Between 2012-2017 blockchain-specialty startups have garnered investment from well-established banks, investment firms, and hedge funds worldwide excited to develop a useable technology to replace the costly reconcilation-based ledgers banks have now. But through the years finance providers had very little success in finding a way to fluidly rollover into blockchain as there's no clear, or even cheap way, of mass converting to another kind of mass-transaction platform, that doesn't disrupt daily transaction-flow cuurently. Plus you need the cooperation of every party in the space for a decentralized ledger to work. And there's various kinds of ledgers for different financial activities. Though banks and institutions have invested heavily into their own ledgers and infrastructure to simply abandon them, but these ledgers are costly to maintain as it is, so the financial sector has not divested their interest in blockchain technology, but funding has now become conservative. Post-2017 with finance investment plateauing, innovators including Digital Asset have been trying to pivot to other sectors like healthcare or retail to implement blockchain, but still no mass adoption in those industries. Customers simply do not know how to use blockchain technology, complain that the languages are too difficult to use with their systems, and do not have a solid understanding of what decentralization means. Decentralization utlimately means cost reduction and faster processing times, which increases spending with consumers. But some companies think blockchain takes away their business footprint.
 
-combine different kinds of different 
+One major breakthrough blockchain has been implented in is equity ledgers. With mobile banking and mobile investment tools catered to everyday people, particapation 
 
-Allows you to combine 
+**What are the other major companies in this domain?**
 
-
-Blockchain has proven to be very useful in terms of keeping track of company ownership. All 
-
-
-Key Competitors:
-R3  [EBSITE](https://www.r3.com/)
+* R3  [R3](https://www.r3.com/)
 
 
-A very useful application of blockchain has shifted 
-Participation in the stock market 
+ 
 
-##### References
+##### Results
+
+**What has been the business impact Digital Asset had so far?**
+
+The business impact has been outside the United States since the free-ware version of DAML was released in 2019. The [Austrailian Stock Exchange (ASX)](https://www.computerworld.com/article/3527268/asx-prepares-to-launch-daml-training-service.html) is the flagship project looking to replace their trading system with companies registered on the index. [Chinese blockchains](https://www.ledgerinsights.com/daml-bsn-blockchain-interoperability-china-blockchain-service-network/) have found the open-source DAML language to help implenent their own blockchain network. To date, no U.S. based finance firms or exchanges are poised to use DAML. Digital Asset  
+
+> Digital Asset’s brand remains closely associated with financial services; the company is a regular fixture at Barclay’s derivatives hackathon, where the majority of teams choose to use DAML over other smart contract languages. Digital Asset also sends their own team to the hackathon and claims to have created a simple swaps contract in just 100 lines of DAML compared to  the 800 lines of Kotlin. For the company, that’s a major proofpoint of the language for Fintech.
+
+
+
+**Why do you think that offering this product or service would benefit the company?**
+
+**What technologies would this additional product or service utilize?**
+
+**Why are these technologies appropriate for your solution?**
+
+###### References
+
+Allison, Ian. “Digital Asset Loses a Manager and a High-Profile Board Member.” Coindesk, Coindesk, 14 Mar. 2019, (https://www.coindesk.com/digital-asset-loses-another-exec-and-a-high-profile-board-member).
 
 Bloomberg. “Digital Asset Holdings LLC - Company Profile.” Bloomberg, Bloomberg, 2014, (https://www.bloomberg.com/profile/company/1326074D:US).
 
 Jessel, Ben. “Digital Asset Steps Up A Gear In Enterprise Blockchain.” Https://Www.Forbes.Com/Sites/Benjessel/2020/02/19/Digital-Asset-Steps-up-a-Gear-in-Enterprise-Blockchain/?Sh=2b6b6f587f9a, Forbes, 19 Feb. 2020, (https://www.forbes.com/sites/benjessel/2020/02/19/digital-asset-steps-up-a-gear-in-enterprise-blockchain/?sh=2b6b6f587f9a).
 
 Digital Asset . The Digital Asset Platform, Non-Technical White Paper. Digital Asset Holdings, LLC, 15 Dec. 2016, https://hub.digitalasset.com/hubfs/Documents/Digital%20Asset%20Platform%20-%20Non-technical%20White%20Paper.pdf.
+
+“Digital Asset’s DAML to Enable Blockchain Interoperability for China’s Blockchain Service Network.” Ledger Insights, Ledger Insights, 2 Sept. 2020, https://www.ledgerinsights.com/daml-bsn-blockchain-interoperability-china-blockchain-service-network/.
+
+Sarraf, Samira. “ASX Prepares to Launch DAML Training Service.” Computer World, Computer World, 12 Feb. 2020, https://www.computerworld.com/article/3527268/asx-prepares-to-launch-daml-training-service.html.
 
 Shin, Laura. “Why Nasdaq Is Even More Optimistic About Blockchain Than It Was 3 Years Ago.” Apple Podcasts, Unchained, 21 Feb. 2017, (https://podcasts.apple.com/us/podcast/unchained/id1123922160?i=1000381489657).
 
