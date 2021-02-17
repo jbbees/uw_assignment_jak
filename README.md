@@ -67,14 +67,12 @@ Eric Saraniecki - *Co-founder, Head of Product*
 
 **Company Thesis and Formation** 
 
-Digital Asset Holdings, LLC was originally formed in 2014. 
+Digital Asset Holdings, LLC was originally formed in 2014. Their idea is very was simple: you can implement a distributed ledger on any store of value or asset and not specifically a cryptocurrency like Bitcoin. And the focused on making a distributed ledger software package that can generate hundreds of smart contracts with minimal code. They published an official [white-paper](https://hub.digitalasset.com/hubfs/Documents/Digital%20Asset%20Platform%20-%20Non-technical%20White%20Paper.pdf) of their Digital Asset Modeling Language, or DAML. This 
 
-According to a Forbes expose written in 2020:
+According to 2020 Forbes [expose](https://www.forbes.com/sites/benjessel/2020/02/19/digital-asset-steps-up-a-gear-in-enterprise-blockchain/?sh=51ef76eb7f9a) written in 2020:
 > The company, founded in 2014 by Sunil Hirani, Don Wilson, Yuval Rooz, Shaul Kfir and Eric Saraniecki out of a bitcoin trading operation created by the Chicago trading firm DRW, rose quickly to prominence through aggressive acquisitions in talent and technology. 
 
-Their offical technology white-paper was published 
-
-
+Sunil Hirani, one of the two core founders started the firm with funds he received on a 2008 sale of one of his many side ventures which sold for $513 million 
 
 ### Business Activities
 
@@ -90,6 +88,7 @@ Their offical technology white-paper was published
 * IBM Ventures
 * Jefferson River Capital 
 * JP Morgan
+* Pivit Gaming
 * NEX Group
 * Mouro Capital
 * PNC Bank
@@ -115,28 +114,24 @@ YEAR|FUNDING AMOUNT|FUNDING TYPE|
 * Hperledger *(acquired 2015)*
 * Elevence *(acquired 2017)*
 
-**2014 
+**2014 - 2017** 
 
-At the beginning of the company was to try to figure out a way to reduce the need for ledger reconciliation between financial entities given the volume of daily transactions done between all of these 
+<img src="https://pbs.twimg.com/profile_images/719157604728053760/F-R_3NZp_400x400.jpg" width="120" height="120">   - Blythe Masters
 
+The first operating year the founding team were all in interchangeable roles. A decision was made to bring in an offical CEO who had finance executive experience. Blythe Masters of JP Morgan was chosen in 2015. Before joinig Digital Asset, she was Wallstreet's go-to general to strategize, contain, and control blockchain. Her primary goal was to issue crypto-securities on a **permissioned** blockchain ledger. Instead of a **trust-less** ledger system where participants and transactions are anonymous and transactions anonymously which is what their DAML smrt, Masters wanted to change it to complete permissioned system where you need to be invited in order to use it. And Master's had particular finance products in mind to use for the blockchain: stock trading.  
 
-early blockchain technologies relied on a coin which limits 
+Blythe Masters:
+> Digital Asset Holdings deemed syndicated loans, U.S. Treasury repos, and equity shares in private companies as particularly “ripe for an overhaul.” - [New York Business Journal](https://www.bizjournals.com/newyork/news/2015/09/01/how-blythe-masters-bitcoin-technology-startup.html)
 
-She was Wallstreet's go-to general to strategize, contain, and control blockchain without a core understanding of decentralization. Her idea was that you could buy-out blockchain compamies and then you'll have market control of it. This did not materialize  
-Development of their smart-contract programming language was halted. 
+Participating banks and companies would issue company stock shares using the blockchain. That makes sense given the large amount of market participation with the advances in mobile banking and mobile stock buying through Robinhood. The only problem about this is, you need to have SEC approval to  
 
-**2015 
-
-Blythe Masters is brought on as the official CEO. Before hand all five original founders were sharing the key operating roles. 
-
-Later in 2017 the key financial 
 
 **2019 - Present, Yuval Rooz CEO**
 
-After Blythe Master's departure in December 2018, which followed the core 
+After Blythe Master's departure in December 2018, which followed the core finane 
 
 
-They did an overall 
+They did an overall audit of where they were at lauching the DAML lanaguage, and it wasn't complete 
 
 Headcount was reduced from 175 to 147. 
 
