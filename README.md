@@ -131,7 +131,12 @@ Participating banks and companies would issue company stock shares using the blo
 After Blythe Master's departure in December 2018, which followed the core finane 
 
 
+
+
 They did an overall audit of where they were at lauching the DAML lanaguage, and it wasn't complete 
+
+> While that may be the case, those that are close to the language have complained that it is hard to use, mirroring aspects of how financial instruments work rather than how programmers intuitively think. That creates a learning curve and commands a very different programing mindset than is employed by developers of traditional non-domain-specific languages, such as Java, making adoption more challenging. - [Forbes](https://www.forbes.com/sites/benjessel/2020/02/19/digital-asset-steps-up-a-gear-in-enterprise-blockchain/?sh=51ef76eb7f9a)
+
 
 Headcount was reduced from 175 to 147. 
 
