@@ -67,12 +67,12 @@ Eric Saraniecki - *Co-founder, Head of Product*
 
 **Company Thesis and Formation** 
 
-Digital Asset Holdings, LLC was originally formed in 2014. Their idea is very was simple: you can implement a distributed ledger on any store of value or asset and not specifically a cryptocurrency like Bitcoin. And the focused on making a distributed ledger software package that can generate hundreds of smart contracts with minimal code. They published an official [white-paper](https://hub.digitalasset.com/hubfs/Documents/Digital%20Asset%20Platform%20-%20Non-technical%20White%20Paper.pdf) of their Digital Asset Modeling Language, or DAML. This 
+Digital Asset Holdings, LLC was originally formed in 2014. Their idea is very was simple: you can implement a **distributed ledger** on any store of value or asset and not specifically a cryptocurrency like Bitcoin backing it. And a distributed ledger software package that can generate hundreds of smart contracts with minimal code. They published an official [white-paper](https://hub.digitalasset.com/hubfs/Documents/Digital%20Asset%20Platform%20-%20Non-technical%20White%20Paper.pdf) of their Digital Asset Modeling Language, or DAML. 
 
 According to 2020 Forbes [expose](https://www.forbes.com/sites/benjessel/2020/02/19/digital-asset-steps-up-a-gear-in-enterprise-blockchain/?sh=51ef76eb7f9a) written in 2020:
 > The company, founded in 2014 by Sunil Hirani, Don Wilson, Yuval Rooz, Shaul Kfir and Eric Saraniecki out of a bitcoin trading operation created by the Chicago trading firm DRW, rose quickly to prominence through aggressive acquisitions in talent and technology. 
 
-Sunil Hirani, one of the two core founders started the firm with funds he received on a 2008 sale of one of his many side ventures which sold for $513 million 
+Sunil Hirani, one of the two core founders started the firm with funds he received on a 2008 sale of one of his many side ventures which sold for $513 million. Most of the other founders worked in the bitcoin division of DRW 
 
 ### Business Activities
 
@@ -123,30 +123,32 @@ The first operating year the founding team were all in interchangeable roles. A 
 Blythe Masters:
 > Digital Asset Holdings deemed syndicated loans, U.S. Treasury repos, and equity shares in private companies as particularly “ripe for an overhaul.” - [New York Business Journal](https://www.bizjournals.com/newyork/news/2015/09/01/how-blythe-masters-bitcoin-technology-startup.html)
 
-Participating banks and companies would issue company stock shares using the blockchain. That makes sense given the large amount of market participation with the advances in mobile banking and mobile stock buying through Robinhood. The only problem about this is, you need to have SEC approval to  
+Participating banks and companies would issue company stock shares using the blockchain. That makes sense given the large amount of market participation with the advances in mobile banking and mobile stock buying through Robinhood. The only problem about this is, you need to have SEC approval to do any of this, which they never obtained. So they can't even issue the products they're selling, and any development of the DAML smart-contract was put on the back burner so to speak.  
 
+In the meantime she led all the compant funding. Most of Blythe Masters tenure as CEO was leading Series-B funding rounds from her WallStreet connectiions. She deployed a high-profile executive team of finance managers to business-face and excite investment into the company esepcially from overseas like the Austrailian Stock Exchange. Blythe used her connections at JP Morgan & PNC Bank. And then she led a series of acquisitions of other notable blockchain startups Hyperledger being the biggest and noticeable acquisiton. But while financial institions were hopeful of blockchain, the enthusiasm quieted down.  
+
+> Critics began to point to shifts in the company’s business strategy and the slow progress of deals as evidence of Digital Asset’s shaky foundation. A number of clients were reticent to move beyond the successful pilot phase into a production setting; the Depository Trust Clearing Corporation hit pause because, as  Murray Pozmanter, head of clearing agency services, explained,“basically, it became a solution in search of a problem.” - [Forbes](https://www.forbes.com/sites/benjessel/2020/02/19/digital-asset-steps-up-a-gear-in-enterprise-blockchain/?sh=51ef76eb7f9a)
+
+In 2018 Blythe left the company. 
 
 **2019 - Present, Yuval Rooz CEO**
 
-After Blythe Master's departure in December 2018, which followed the core finane 
+After Blythe Master's departure in December 2018, which followed many executive departures responsible 
+Yuval Rooz, one of the co-founders and engineering staff was made the new CEO. Since Digital Asset wasn't able to issue blockchain equities products and finance companue
+Rooz decided to pivot their blockchain to non-finance related sectors like healthcare and retail. They currently are in works with getting funding from Samsung and Salesforce. But rollout of their smart contract package is slow to adopt just like in 
 
-
-
-
-They did an overall audit of where they were at lauching the DAML lanaguage, and it wasn't complete 
+They did an overall audit of where they were at lauching the DAML lanaguage, and it wasn't complete. 
 
 > While that may be the case, those that are close to the language have complained that it is hard to use, mirroring aspects of how financial instruments work rather than how programmers intuitively think. That creates a learning curve and commands a very different programing mindset than is employed by developers of traditional non-domain-specific languages, such as Java, making adoption more challenging. - [Forbes](https://www.forbes.com/sites/benjessel/2020/02/19/digital-asset-steps-up-a-gear-in-enterprise-blockchain/?sh=51ef76eb7f9a)
 
+Yooz brought-in VNMWare to basically build DAML because they spent most of their time buying other blockchain companies. One 
+So in other words: a software company is having another software company makes its software. And that brought pessimism into how the compant could grow. 
 
-Headcount was reduced from 175 to 147. 
+> VMWare had stepped in to the project as a new partner.  With VMWare appearing to have taken over the consensus layer of Digital Asset’s stack in the deal and Digital Asset switching the attention to DAML, critics seized on this as evidence that Digital Asset was having challenges with their technology, requiring a third party to step in.
 
-Since most of their funding and time has been spent making acquisitions of competing smart contract tech start-ups, there was barely any development of their own core smart-contract products, with no time-table to release to market. Early adopters of their product in the finace industry report it was too difficult to use 
-With slow adoption rate to convert to blockchain in their home industry, finance, 
-They isolated the workables segment of their smart-contract language into a product labeled Digitial  or DAML. It was released online as a free license. To make revenues the company will roll-out fees for customer services and support, and fees for enterprise support. But s
-The company has not abandoned their intended use for DAML to be adopted in the financial sector. In fact, their main customer for DAML 
+> While DAML is free to use, the company plans to charge a support fee for enterprise support. That will allow adopters to ensure that they are eligible for upgrades, special enterprise features, and s expert assistance around how to use the language effectively.
 
-
-
+The company will also offer – and charge for – “customer enablement services” to provide the expertise and support to help clients with deployment into production; as adopters are starting to find out for themselves, it’s one thing to experiment with the technology in the lab, quite another undertaking to move it to production.
 
 #### Landscape
 
