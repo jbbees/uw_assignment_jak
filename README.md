@@ -63,7 +63,7 @@ Eric Saraniecki - *Co-founder, Head of Product*
 * ~~James Powell - *Former CIO & CTO of Engineering*~~
 * ~~Gavin Wells -  *Former Head of Europe Ops*~~
 
-**Company Thesis and Formation** 
+**Company Thesis and Formation:** 
 
 Digital Asset Holdings, LLC was originally formed in 2014. Their idea is very was simple: you can implement a **distributed ledger** on any store of value or asset and not specifically a cryptocurrency like Bitcoin backing it. And a distributed ledger software package that can generate hundreds of smart contracts with minimal code. They published an official [white-paper](https://hub.digitalasset.com/hubfs/Documents/Digital%20Asset%20Platform%20-%20Non-technical%20White%20Paper.pdf) of their Digital Asset Modeling Language, or DAML. 
 
